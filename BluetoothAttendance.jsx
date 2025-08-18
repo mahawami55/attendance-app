@@ -1,3 +1,4 @@
+{"status":500,"name":"Error","message":"Input buffer contains unsupported image format"}
 import React, { useState, useEffect } from 'react';
 import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -206,6 +207,7 @@ const BluetoothAttendance = ({ onNavigate }) => {
 };
 
 export default BluetoothAttendance;
+
 
 
 
