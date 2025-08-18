@@ -1,3 +1,4 @@
+{"status":500,"name":"Error","message":"Input buffer contains unsupported image format"}
 import React, { useState } from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -231,6 +232,7 @@ const AttendanceReport = ({ onNavigate }) => {
 };
 
 export default AttendanceReport;
+
 
 
 
