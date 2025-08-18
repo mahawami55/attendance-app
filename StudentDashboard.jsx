@@ -1,3 +1,4 @@
+{"status":500,"name":"Error","message":"Input buffer contains unsupported image format"}
 import React from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -192,6 +193,7 @@ const StudentDashboard = ({ user, onNavigate }) => {
 };
 
 export default StudentDashboard;
+
 
 
 
