@@ -1,3 +1,4 @@
+{"status":500,"name":"Error","message":"Input buffer contains unsupported image format"}
 import React, { useState } from 'react';
 import LoginScreen from './components/LoginScreen';
 import StudentDashboard from './components/StudentDashboard';
@@ -58,5 +59,6 @@ function App() {
 }
 
 export default App;
+
 
 
