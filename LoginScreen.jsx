@@ -1,3 +1,4 @@
+{"status":500,"name":"Error","message":"Input buffer contains unsupported image format"}
 import React, { useState, useEffect } from 'react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
@@ -243,6 +244,7 @@ const LoginScreen = ({ onLogin }) => {
 };
 
 export default LoginScreen;
+
 
 
 
